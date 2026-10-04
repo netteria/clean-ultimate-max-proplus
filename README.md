@@ -17,7 +17,7 @@ It provides a modern interface, modular cleaning categories, safe removal of tem
 
 ## Download
 Latest releases are available here:  
-https://github.com/netteria/clean-ultimate-max-proplus/releases
+https://github.com/netteria/clean-ultimate-max-proplus
 
 ## Requirements
 - Windows 10 or Windows 11  
