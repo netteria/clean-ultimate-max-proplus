@@ -1,4 +1,11 @@
 # Clean Ultimate MAX PRO++
+
+> **Disclaimer**
+> This software is provided "AS IS", without any warranties of any kind, express or implied.
+> The author shall not be liable for any damages, data loss, malfunctions, or other consequences
+> resulting from the use of this application.  
+> You use this software entirely at your own risk.
+
 Advanced Windows 10/11 cleaning tool with a modern GUI, modular cleaning system, administrator execution, and safe system maintenance.  
 Created by **Netteria.NET**  
 https://netteria.net
